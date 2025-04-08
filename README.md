@@ -1,20 +1,24 @@
 # Trao đổi dữ liệu qua Kafka với Spring Boot và Kafka Cluster
 
 ## Tạo 2 ứng dụng Spring boot trao đổi dữ liệu (JSON) với nhau thông qua Kafka:
-![Screenshot 2025-04-08 215512](https://github.com/user-attachments/assets/ca6b3c26-1178-4dc0-b51a-e554bfbf8396)
-![Screenshot 2025-04-08 215532](https://github.com/user-attachments/assets/d4bb88f3-4b22-4949-88a7-a9b3126f187f)
+![Screenshot 2025-04-08 215512](https://github.com/user-attachments/assets/5b2d74f6-d413-4111-b306-2343278775c9)
+![Screenshot 2025-04-08 215532](https://github.com/user-attachments/assets/413cc187-b8fc-476c-b17c-8fac6e3e04f0)
+
 
 ## Nâng cấp Kafka thành cluster gồm 3 máy:
 
 ### Zookeeper
-![Screenshot 2025-04-08 222513](https://github.com/user-attachments/assets/d049ca53-c699-4bd6-990f-bcfa452bbe49)
-![Screenshot 2025-04-08 222526](https://github.com/user-attachments/assets/bc8873c9-7b55-4396-bef7-34b7154fdcb4)
-![Screenshot 2025-04-08 222535](https://github.com/user-attachments/assets/ea81a1f5-b280-4430-b99a-31e73464160c)
+![Screenshot 2025-04-08 222513](https://github.com/user-attachments/assets/77a14232-cbbb-474e-854e-15c183bfcc08)
+![Screenshot 2025-04-08 222526](https://github.com/user-attachments/assets/69aaf9c7-a180-4562-8462-6f7498ea7566)
+![Screenshot 2025-04-08 222535](https://github.com/user-attachments/assets/c2592df3-bb55-460b-97f3-026f649d01f9)
+
 
 ### Kafka
-![Screenshot 2025-04-08 222542](https://github.com/user-attachments/assets/4913f5d3-cde1-4697-8892-1b0eda570fee)
-![Screenshot 2025-04-08 222549](https://github.com/user-attachments/assets/210d1429-8351-4ec3-93a5-856abd1dbcef)
-![Screenshot 2025-04-08 222555](https://github.com/user-attachments/assets/2a700a85-104a-41a9-bbc3-493ded36872c)
+![Screenshot 2025-04-08 222542](https://github.com/user-attachments/assets/68a2f760-2ce4-4e31-82f0-819d9002ccfb)
+![Screenshot 2025-04-08 222549](https://github.com/user-attachments/assets/5add00dc-d087-4d8b-9f11-b9b396a972c8)
+
+![Screenshot 2025-04-08 222555](https://github.com/user-attachments/assets/531631e8-853d-48e5-8cec-1ee52674e203)
+
 
 ## Cấu hình Kafka Cluster
 
